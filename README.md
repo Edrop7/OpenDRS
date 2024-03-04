@@ -1,6 +1,3 @@
-# OpenDRS
-Active-aero rear wing package for FSAE (B.S. M.E. senior capstone)
-
 <h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/teamsecretformulalogo.png" alt="Senior capstone team logo" width="200"></a>

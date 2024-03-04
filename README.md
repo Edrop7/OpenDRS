@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OpenDRSmove.gif">
+    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OpenDRSmove.gif" width="150%" height="150%">
 </p>
 
 ## About This Project

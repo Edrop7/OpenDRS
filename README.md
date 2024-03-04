@@ -34,7 +34,7 @@ Active-aero rear wing package for FSAE (B.S. M.E. senior capstone)
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OpenDRSmove.gif)
 
 ## Key Features
 

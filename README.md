@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">A public domain active aero rear wing package for <a href="https://www.fsaeonline.com/" target="_blank">FSAE</a>.</h4>
-
+<!--
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="#About-This-Project">About This Project</a> •

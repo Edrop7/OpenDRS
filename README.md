@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/teamsecretformulalogo.png" alt="Senior capstone team logo" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/teamsecretformulalogo.png" alt="Senior capstone team logo" width="50%" height="50%"></a>
   <br>
   OpenDRS
   <br>

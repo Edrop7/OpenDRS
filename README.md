@@ -109,16 +109,16 @@ Within OptimumLap, FSAE teams upload critical vehicle data such as
 This data is primarily sourced from suppliers of Commercial-off-the-shelf components (such as tires or engines), as well as CAD and CAE simulations.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/FSAEOptimumLap.PNG">
+    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/FSAEOptimumLap.PNG" width="60%" height="60%">
 </p>
 
 With this data, OptimumLap can create different plots and visualizations of kinematic performance data of a vehicle across a racetrack. It can also compare different vehicle configurations within the same visualizations, as demonstrated below with a speed vs elapsed distance plot and track heat map.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/SpeedVsElapsedDistance.PNG">
+    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/SpeedVsElapsedDistance.PNG" width="60%" height="60%">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OptimumLap-Track.PNG">
+    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OptimumLap-Track.PNG" width="60%" height="60%">
 </p>
 
 **What is wrong with OptimumLap?**
@@ -134,7 +134,7 @@ This allows our team to both benchmark different designs for the critical projec
 The data below is for the FIU Panther Motorsports FSAE vehicle for 2024. It may be helpful to other teams, but it is worth noting that this data does not translate equally to all FSAE vehicles. This data is based on the panther motorport competition vehicle only, and it is recommended for other teams to create their own OptimumLap configurations and use our MATLAB benchmarking tools to identify their own plots for expected performance, though this data may be used to make approximations for adoption of this project
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/LaptimeVsCd.PNG">
+    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/LaptimeVsCd.PNG" width="60%" height="60%">
 </p>
 
 

@@ -59,8 +59,17 @@ This repository contains the documentation of the work done by 4 FIU B.S. Mechan
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To view, experiment with, or modify the files in this repository, you'll need 
+* [OptimumLap](https://optimumg.com/product/optimumlap/)
+* [MATLAB](https://www.mathworks.com/products/matlab/student.html)
+* [ANSYS](https://www.ansys.com/academic/students) 
+* [SimScale](https://www.simscale.com/academic-program/)
+* [Arduino IDE](https://www.arduino.cc/en/software)
 
+Additionally, to access and edit the design architecture provided, the CAD software [SolidWorks 2022](https://www.solidworks.com/product/students) is needed to view our native design files. [Fusion 360](https://www.autodesk.com/campaigns/education/fusion-360) is a free (for students) alternative to view and edit history-less STEP files for free. 
+
+Our team used free student versions of all of the software listed above provided by the Florida International University Mechanical and Materials Engineering department.
+<!--
 ```bash
 # Clone this repository
 $ git clone https://github.com/amitmerchant1990/electron-markdownify
@@ -77,6 +86,7 @@ $ npm start
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+-->
 
 
 ## Download

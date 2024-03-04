@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-    ![screenshot](https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OpenDRSmove.gif)
+    <img src="https://raw.githubusercontent.com/Edrop7/OpenDRS/master/Git-Resources/OpenDRSmove.gif">
 </p>
 
 ## Key Features
